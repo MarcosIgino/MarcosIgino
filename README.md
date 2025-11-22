@@ -2,7 +2,7 @@
 
 Atuo há mais de 20 anos com Produtos Bancários, Pagamentos Digitais e Transformação Digital. Gosto — de verdade — de pegar problemas complexos e transformá-los em produtos simples, fáceis de entender e capazes de gerar impacto real e mensurável.
 
-## Minha jornada (curta)
+## Minha jornada
 Comecei na operação bancária, aprendi a durabilidade do problema. Com muita resiliência e aprendizado, passei por times de produto em grandes bancos e startups de pagamentos — onde descobri que produto é menos sobre features e mais sobre estar alinhado ao prpósito dos clientes, tomando decisões alinhadas com dados, facilitando a priorização, medição, rápido aprendizado e pivotagem sem medo. Hoje, eu ajudo times a construir produtos confiáveis, escaláveis e centrados no usuário.
 
 ## O que você encontra aqui
