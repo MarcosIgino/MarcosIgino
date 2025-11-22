@@ -18,7 +18,7 @@ Comecei na operação bancária, aprendi a durabilidade do problema. Com muita r
 4. Decisão orientada a resultado
 
 ## Quer conversar?
-- LinkedIn: linkedin.com/in/marcosiginopmp  
+- LinkedIn: https://linkedin.com/in/marcosiginopmp  
 - Portfolio: https://linktr.ee/marcos.igino 
 - Email: marcos.igino@gmail.com
 
