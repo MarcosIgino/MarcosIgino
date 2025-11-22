@@ -1,6 +1,6 @@
 👋 Hi, I’m @MarcosIgino
-  
-Atuo com Produtos Bancários, Pagamentos Digitais e Transformação Digital a +20 anos. Gosto MUITO de transformar problemas complexos em produtos simples que as pessoas entendem — e que geram impacto mensurável.
+
+Atuo há mais de 20 anos com Produtos Bancários, Pagamentos Digitais e Transformação Digital. Gosto — de verdade — de pegar problemas complexos e transformá-los em produtos simples, fáceis de entender e capazes de gerar impacto real e mensurável.
 
 ## Minha jornada (curta)
 Comecei na operação bancária, aprendi a durabilidade do problema. Com muita resiliência e aprendizado, passei por times de produto em grandes bancos e startups de pagamentos — onde descobri que produto é menos sobre features e mais sobre estar alinhado ao prpósito dos clientes, tomando decisões alinhadas com dados, facilitando a priorização, medição, rápido aprendizado e pivotagem sem medo. Hoje, eu ajudo times a construir produtos confiáveis, escaláveis e centrados no usuário.
